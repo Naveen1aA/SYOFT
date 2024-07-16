@@ -1,0 +1,38 @@
+.login-card-container{
+    background-color: rgb(241, 245, 248);
+    height: 450px;
+    width: 500px;
+    margin-left: 650px;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+.login-container{
+    margin-left: 30px;
+    padding-top: 20px;
+}
+.input-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 20px;
+}
+.checkbox-container{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+.login-card-button{
+    background-color: darkblue;
+    color: rgb(226, 221, 221);
+    border-style: none;
+    height: 60px;
+    width: 200px;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.input{
+   height: 40px; 
+}

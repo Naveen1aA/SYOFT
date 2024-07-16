@@ -1,0 +1,23 @@
+.dashboard-container{
+    background-image: url('https://res.cloudinary.com/dfodxbgfn/image/upload/v1721105941/pexels-kubiceknov-924824_1_upjhhu.jpg');
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+.dashboard-container-sub{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-top: 30px;
+    padding-top: 50px;
+}
+.image{
+    height: 60px;
+    width: 60px;
+    border-radius: 58%;
+}
+.dashboard-images-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

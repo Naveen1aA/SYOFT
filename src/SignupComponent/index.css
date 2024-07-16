@@ -1,0 +1,41 @@
+.signup-card-container{
+    background-color: rgb(230, 232, 233);
+    height: 700px;
+    width: 500px;
+    margin-left: 650px;
+    border-radius: 20px;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifArial, sans-serif;
+}
+.login-container{
+    margin-left: 30px;
+    padding-top: 20px;
+}
+.input-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 20px;
+}
+.checkbox-container{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+.login-card-button{
+    background-color: darkblue;
+    color: white;
+    border-style: none;
+    height: 60px;
+    width: 300px;
+    border-width: 0ch;
+    border-radius: 30px;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.input{
+    height: 40px;
+}
